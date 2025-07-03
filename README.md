@@ -76,6 +76,6 @@ git push origin feature/#{이슈번호}-{할 일}
 
 ## 도움을 주신분
 
-|                                이미지                                 |                       소개                       |
-| :-------------------------------------------------------------------: | :----------------------------------------------: |
-| <img src="https://github.com/sayyyho.png" width="100" height="100" /> | 멋쟁이사자처럼 13기 프론트엔드 교육팀 **박세호** |
+| 이미지 | 소개 |
+|:------:|:----:|
+| <a href="https://github.com/sayyyho" target="_blank"><img src="https://github.com/sayyyho.png" width="100" height="100" /></a> | 멋쟁이사자처럼 13기 프론트엔드 교육팀 **박세호** |
